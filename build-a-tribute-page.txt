@@ -1,0 +1,180 @@
+** start of undefined **
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Kobe Bean Bryant</h1>
+      <p>La légende de toute une histoire</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"
+          alt="Commémoration en mémoire de la légende que fut le grand kobe brayant le  26 janvier 2020"
+        />
+        <figcaption id="img-caption">
+            Il sera intronisé au Hall of Fame à la mi-mai 2021, le panthéon du basket international. Une ultime consécration qui fait suite à sa mort brutale, le 26 janvier 2020, dans un accident d'hélicoptère où sa fille et sept autres personnes perdirent également la vie.
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Voici une chronologie de la vie de kobe :</h3>
+        <ul>
+          <li><strong>1978 </strong> -  né le 23 août à Philadelphie en Pennsylvanie </li>
+          <li><strong>Début en NBA(1997-1999)</strong> - Il se présente à la draft 1996 de la NBA. Il est sélectionné par les Hornets de Charlotte en 13e position de la draft, mais Bryant est suivi depuis longtemps par Jerry West, le General Manager des Lakers de Los Angeles qui s'est entendu avec les Hornets pour le transfert du jeune Kobe en échange du pivot yougoslave Vlade Divac7. En effet, Bryant n'a que dix-sept ans et il est peu commun en 1996 pour un joueur de passer directement du lycée à la NBA. Charlotte qui mise sur le court terme préfère donc récupérer un intérieur référencé et cède son tour de draft aux Lakers en l'échange de Divac7. Jerry West confie alors au propriétaire de la franchise, Jerry Buss, que son équipe vient de récupérer « le vrai numéro 1 de cette draft »7.</li>
+          <li><strong>Le three-peat (2000-2002)</strong> - Kobe Bryant devient un joueur essentiel des Lakers lors de sa quatrième saison en NBA (1999-2000)9.
+
+            À la suite de l'arrivée de Phil Jackson, l'entraîneur aux six titres de champion avec les Bulls de Michael Jordan, les Lakers remportent le titre de champion en 2000, face aux Pacers de l'Indiana.
+            
+            Les Lakers atteignent en effet les finales NBA après une finale de conférence épique face aux Trail Blazers de Portland remportée par Los Angeles en sept rencontres. Au cours de la dernière rencontre, Kobe Bryant impressionne par son sang froid à un si jeune âge. Menés de quinze points à dix minutes de la fin, les Lakers reviennent et s'imposent 89-84.
+        </li>
+        <li><strong> Débuts internationaux en 2007 </strong> - Bryant doit pourtant se reconcentrer sur son basket car il défend pour la première fois les couleurs des États-Unis avec Team USA lors du Championnat des Amériques en août 2007. À l'instar de Michael Jordan, en 1992, avec la Dream Team, Bryant se focalise sur la défense. Les États-Unis remportent le tournoi, Kobe Bryant jouant 19,9 minutes de moyenne sur dix matches. Il marque en moyenne 15,3 points (60,7 % à deux points, 45,9 % à trois points et 87,2 % aux lancers francs), capte deux rebonds et donne 2,9 passes décisives.</li>
+
+        <li><strong>Jeux olympiques 2008</strong> - Les Jeux olympiques de Beijing en 2008 sont pour le Team USA l'occasion de la « rédemption ». En effet, les États-Unis ne sont plus considérés comme intouchables par les autres équipes internationales. Leurs dernières participations aux tournois internationaux prouvent que les États-Unis ne sont plus les maîtres du monde : 6e place aux Mondiaux de 2002, médaille de bronze aux JO d'Athènes en 2004, 3e place au Championnat du monde de 2006.</li>
+
+        <li><strong> Meilleur joueur et défaite en finales NBA (2007-2008)</strong> - Les Lakers réalisent un bon début de saison grâce au jeune pivot Andrew Bynum. Les Lakers sont premiers de la conférence Ouest en janvier lorsque Bynum se blesse gravement au genou, diminuant la force des Lakers à l'intérieur de la raquette. Le 1er février, l'Espagnol Pau Gasol arrive aux Lakers qui se replacent ainsi parmi les favoris. Bryant se déchire un ligament à l'auriculaire mais continue de jouer. Des victoires importantes contre La Nouvelle-Orléans et San Antonio lors de la dernière semaine de compétition permettent aux Lakers de finir à la première place de la conférence Ouest avec un bilan de 57 victoires pour 25 défaites</li>
+
+        <li><strong>Quatrième bague de champion (2008-2009)</strong> - Les Lakers font partie des favoris pour la saison NBA 2008-2009 avec le retour d'Andrew Bynum au sein de l'équipe. De plus, Kobe Bryant souhaite prendre sa revanche à la suite de la défaite lors des finales 2008. Fin janvier 2009, Bynum se blesse de nouveau au genou, dans le match qui opposait les Lakers aux Grizzlies de Memphis. Cependant, Lamar Odom revient à son plus haut niveau et aide les Lakers à rester en course pour la première place de la NBA. Bryant marque 61 points à 19/31 aux tirs et 20/20 aux lancers francs au Madison Square Garden le 2 février 2009. C'est la plus grande performance offensive réalisée dans la salle des Knicks, devant les 55 points de Michael Jordan (jusqu'aux 62 points de Carmelo Anthony le 24 janvier 2014). Les Lakers ont un bilan de 42 victoires et 11 défaites avant la pause du All-Star Week-end, les plaçant juste devant les Cavaliers de LeBron James. Bryant, auteur de 27 points, obtient le titre de co-MVP du All-Star Game 2009 à Phoenix avec son ancien coéquipier Shaquille O'Neal, le 15 février 2009. Avec 2 805 397 votes - soit le meilleur total de ce vote sur internet18, il obtient sa 11e participation au « match des étoiles ». Kobe Bryant dépasse Elgin Baylor puis Adrian Dantley au classement des meilleurs marqueurs de l'histoire de la NBA.</li>
+
+        <li><strong>Doublé et cinquième bague de champion (2009-2010)</strong> - Durant l'intersaison 2009, très active pour toute la NBA au niveau des transferts, le défenseur Ron Artest signe aux Lakers en tant qu'agent libre. Il jouait auparavant aux Rockets de Houston. Trevor Ariza fait le trajet inverse19. Au coup d'envoi de la saison, les Lakers de Los Angeles sont logiquement favoris à leur propre succession.
+
+            Bryant marque quarante points le 17 novembre 2009 et devient le troisième joueur de l'histoire de la NBA à marquer plus de quarante points en un match à cent reprises (derrière Wilt Chamberlain et Michael Jordan). Le 11 décembre, Kobe Bryant se fracture le doigt face aux Timberwolves, c'est le début de cinq mois difficiles en raison des blessures.
+        </li>
+          
+         
+          
+          <li><strong>2020</strong> -  mort le 26 janvier à Calabasas en Californie, est un joueur américain de basket-ball</li>
+        </ul>
+        <blockquote
+          cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+        >
+          <p>
+            " Quintuple champion NBA, il est l'un des sept joueurs à avoir inscrit plus de 30 000 points en carrière. Il est également double champion olympique avec l'équipe des États-Unis, en 2008 et en 2012. Il est considéré comme l'un des meilleurs joueurs de basket-ball de tous les temps.
+            "
+
+          </p>
+          <cite>-- Deuxieme meilleure baskeketteur de l'histoire</cite>
+        </blockquote>
+        <h3>
+            Si vous avez le temps, vous devriez en savoir plus sur cet être humain incroyable sur son
+          <a
+            id="tribute-link"
+            href="https://fr.wikipedia.org/wiki/Kobe_Bryant#:~:text=Quintuple%20champion%20NBA%2C%20il%20est,ball%20de%20tous%20les%20temps."
+            target="_blank"
+            >wikipedia</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+    /* J'applique une  taille de police de 10 px  */
+    font-size: 10px;
+  }
+  
+  body {
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+      'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  
+  @media (max-width: 460px) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  }
+  
+  h2 {
+    font-size: 3.25rem;
+  }
+  
+  a {
+    color: #477ca7;
+  }
+  
+  a:visited {
+    color: #74638f;
+  }
+  
+  #main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+  }
+  
+  @media (max-width: 460px) {
+    #main {
+      margin: 0;
+    }
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
+  @media (max-width: 460px) {
+    #img-caption {
+      font-size: 1.4rem;
+    }
+  }
+  
+  #headline {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+
+** end of undefined **
+

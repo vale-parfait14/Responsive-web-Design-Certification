@@ -1,0 +1,245 @@
+** start of undefined **
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+
+
+    <header class="header">
+        <h1 id="title" class="text-center">Formulaire d'enquête freeCodeCamp</h1>
+        <p id="description" class="description text-center">
+            
+            Merci d'avoir pris le temps de nous aider à améliorer la plateforme
+        </p>
+    </header>
+
+
+    <form id="survey-form">
+        <div class="form1">
+          <label id="name-label" for="name">Nom</label> <br>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            class="form-control"
+            placeholder="Entrer votre nom"
+            required
+          />
+        </div>
+
+        <div class="form2">
+          <label id="email-label" for="email">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            class="form-control"
+            placeholder="Enter your Email"
+            required
+          />
+        </div>
+
+        <div class="form3">
+          <label id="number-label" for="number"
+            >Age</label
+          >
+          <input
+            type="number"
+            name="age"
+            id="number"
+            min="10"
+            max="99"
+            class="form-control"
+            placeholder="Age"
+          />
+        </div>
+
+        <div class="form4">
+          <p>Quelle option décrit le mieux votre rôle actuel ?</p>
+          <select id="dropdown" name="role" class="form-control" required>
+            <option disabled selected value>selectionner le role actuel</option>
+            <option value="Etudiant">Etudiant(e)</option>
+            <option value="travail">Travail à temps plein</option>
+            <option value="partiel">travail à temps partiel</option>
+            <option value="autre">Autre</option>
+          </select>
+        </div>
+
+        <div class="form5">
+          <p>Recommanderiez-vous freeCodeCamp à un ami?</p>
+          <label>
+            <input
+              name="recommandation"
+              value="definitely"
+              type="radio"
+              class="input-radio"
+              checked
+            />Certainement</label
+          >
+          <label>
+            <input
+              name="recommandation"
+              value="peut-etre"
+              type="radio"
+              class="input-radio"
+            />Peut être</label
+          >
+
+          <label
+            ><input
+              name="recommandation"
+              value="pas-certain"
+              type="radio"
+              class="input-radio"
+            />Pas certain</label
+          >
+        </div>
+
+        <div class="form-group1">
+          <p>Quelle est votre fonctionnalité préférée de freeCodeCamp ?</p>
+          <select id="most-like" name="mostLike" class="form-control" required>
+            <option disabled selected value>choisis une option</option>
+            <option value="Défis">Défis</option>
+            <option value="Projets">Projets</option>
+            <option value="Communauté">Communauté</option>
+            <option value="openSource">Open Source</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <p>
+            Qu’aimeriez-vous voir amélioré?
+          </p>
+
+         
+          <label
+            ><input
+              name="proposition"
+              value="Défis"
+              type="checkbox"
+              class="input-checkbox"
+            />Défis</label
+          >
+          
+          <label
+            ><input
+              name="proposition"
+              value="videos"
+              type="checkbox"
+              class="input-checkbox"
+            />Videos</label
+          >
+          <label
+            ><input
+              name="proposition"
+              value="Rencontres-en-ville"
+              type="checkbox"
+              class="input-checkbox"
+            />Rencontres en ville</label
+          >
+          
+          <label
+            ><input
+              name="proposition"
+              value="forum"
+              type="checkbox"
+              class="input-checkbox"
+            />Forum</label
+          >
+          
+        </div>
+
+        <div class="form-group">
+          <p>Des commentaires ou des suggestions?</p>
+          <textarea cols="65" rows="10"
+            id="commentaire"
+            class="input-textarea"
+            name="commentaire"
+            placeholder="Entrer un commentaire ici .."
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <button type="submit" id="submit" class="submit-button">
+            Sumettre
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+    color: white;
+}
+body::after{
+    content: " ";
+    top: 0;
+    left:0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: linear-gradient(
+        15deg , 
+        rgba(28,28, 36, 0.7), 
+        rgba(152, 152, 175, 0.7)
+    ),
+    url("C:/Users/ozova/Downloads/pexels-eberhard-grossgasteiger-1624496.jpg");
+    background-position: center;
+    background-size: cover;
+
+
+
+}
+/*Début de la partie en tete*/
+header{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+/*Fin de la partie en tete*/
+/**Début de la partie form*/
+form{
+    background-color: rgba(28, 28, 36, 0.7);
+    margin: auto;
+    width: 500px;
+    height: 900px;
+    padding: 10px 30px ;
+}
+.form1, .form2, .form3, .form4, .form5{
+    padding-bottom: 30px;
+}
+
+.form-control{
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+   
+}
+button{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top:20px;
+}
+button:hover{
+    background-color:rgba(28, 28, 36, 0.7) ;
+    color: white;
+}
+/*Fin de la partie form*/
+
+
+** end of undefined **
+
